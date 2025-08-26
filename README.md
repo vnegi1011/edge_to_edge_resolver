@@ -2,6 +2,8 @@
 
 ---
 
+[![pub package](https://img.shields.io/pub/v/edge_to_edge_resolver.svg)](https://pub.dartlang.org/packages/edge_to_edge_resolver)
+
 A Flutter plugin that helps developers resolve **edge-to-edge rendering issues** across android devices (Android 35).  
 This package provides utilities to handle safe areas, insets, and system UI overlays for a smoother full-screen app experience.
 
@@ -67,7 +69,10 @@ If you find a bug or want to suggest a feature, please open an issue or submit a
 
 # 📷 Screenshots
 
-![Alt Text](./example/demo/img1.png)
-![Alt Text](./example/demo/img2.png)
-![Alt Text](./example/demo/img3.png)
-![Alt Text](./example/demo/img4.png)
+With full screen indicator
+<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img1.png">
+<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img2.png">
+
+With 3-buttons navigation
+<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img3.png">
+<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img4.png">
