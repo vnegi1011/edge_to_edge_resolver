@@ -1,0 +1,1 @@
+export 'package:edge_to_edge_resolver/widgets/full_screen.dart';

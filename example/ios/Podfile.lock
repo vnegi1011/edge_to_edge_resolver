@@ -1,0 +1,28 @@
+PODS:
+  - edge_to_edge_resolver (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - edge_to_edge_resolver (from `.symlinks/plugins/edge_to_edge_resolver/ios`)
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+EXTERNAL SOURCES:
+  edge_to_edge_resolver:
+    :path: ".symlinks/plugins/edge_to_edge_resolver/ios"
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  edge_to_edge_resolver: b5f561d6668bd5330db020f5f407699bc9249e95
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
+
+PODFILE CHECKSUM: 9580a49fa2c095d51100c20f258df867100b916b
+
+COCOAPODS: 1.16.2
