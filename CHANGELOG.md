@@ -1,4 +1,3 @@
-## 0.0.6
+## 0.0.7
 
-* Added license
-* Fixes for WASM
+* Added contribution.md

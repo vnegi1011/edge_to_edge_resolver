@@ -1,6 +1,6 @@
 name: edge_to_edge_resolver
 description: A Flutter plugin to customize navigation bar color and system UI overlays for Android and iOS.
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/vnegi1011/edge_to_edge_resolver.git
 repository: https://github.com/vnegi1011/edge_to_edge_resolver.git
 issue_tracker: https://github.com/vnegi1011/edge_to_edge_resolver/issues

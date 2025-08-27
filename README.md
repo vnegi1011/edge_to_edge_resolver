@@ -64,13 +64,13 @@ class MyHomePage extends StatelessWidget {
 
 ### With full screen indicator
 
-![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img1.png)
-![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img2.png)
+<img src="https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img1.png" width="300"/>
+<img src="https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img2.png" width="300"/>
 
 ### With 3-buttons navigation
 
-![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img3.png)
-![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img4.png)
+<img src="https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img3.png" width="300"/>
+<img src="https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img4.png" width="300"/>
 
 
 ## Contributing
@@ -80,4 +80,4 @@ If you find a bug or want to suggest a feature, please open an issue or submit a
 
 ### Code Contributors
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/vnegi1011/edge_to_edge_resolver/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/115055146" /></a>
+<a href="https://github.com/vnegi1011/edge_to_edge_resolver/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/115055146" width="50" /></a>
