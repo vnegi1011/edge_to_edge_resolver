@@ -28,7 +28,8 @@ class EdgeToEdgeResolverWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return FullScreen(
       bottomPadding: bottomPadding,
-      systemNavigationBarColor: systemNavigationBarColor?? EdgeToEdgeResolver.navigationBarColor,
+      systemNavigationBarColor:
+          systemNavigationBarColor ?? EdgeToEdgeResolver.navigationBarColor,
       child: child,
     );
   }

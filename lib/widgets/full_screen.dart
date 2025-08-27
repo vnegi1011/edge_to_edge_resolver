@@ -6,7 +6,12 @@ class FullScreen extends StatelessWidget {
   final double bottomPadding;
   final Color systemNavigationBarColor;
   final Widget child;
-  const FullScreen({super.key, this.bottomPadding = 0.0, required this.child, required this.systemNavigationBarColor});
+  const FullScreen({
+    super.key,
+    this.bottomPadding = 0.0,
+    required this.child,
+    required this.systemNavigationBarColor,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -15,12 +20,14 @@ class FullScreen extends StatelessWidget {
       children: [
         Expanded(child: child),
         Container(
-          height:(MediaQuery.paddingOf(context).bottom.clamp(0, 60)) + bottomPadding,
+          height:
+              (MediaQuery.paddingOf(context).bottom.clamp(0, 60)) +
+              bottomPadding,
           margin: EdgeInsets.zero,
           padding: EdgeInsets.zero,
           decoration: BoxDecoration(
             color: systemNavigationBarColor,
-            border: Border.all(width: 0, color: systemNavigationBarColor)
+            border: Border.all(width: 0, color: systemNavigationBarColor),
           ),
         ),
       ],

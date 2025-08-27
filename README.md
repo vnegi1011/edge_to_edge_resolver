@@ -1,7 +1,5 @@
 # edge_to_edge_resolver
 
----
-
 [![pub package](https://img.shields.io/pub/v/edge_to_edge_resolver.svg)](https://pub.dartlang.org/packages/edge_to_edge_resolver)
 
 A Flutter plugin that helps developers resolve **edge-to-edge rendering issues** across android devices (Android 35).  
@@ -23,7 +21,6 @@ This package provides utilities to handle safe areas, insets, and system UI over
 | **Support** | SDK 35+ (Kotlin 1.9.22) | 13.0+ (Swift 5.0) |
 
 
----
 
 ## Installation
 
@@ -62,17 +59,25 @@ class MyHomePage extends StatelessWidget {
 }
 ```
 
+
+## 📷 Screenshots
+
+### With full screen indicator
+
+![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img1.png)
+![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img2.png)
+
+### With 3-buttons navigation
+
+![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img3.png)
+![Screenshot1](https://raw.githubusercontent.com/vnegi1011/edge_to_edge_resolver/master/example/demo/img4.png)
+
+
 ## Contributing
 
 Contributions are welcome!
 If you find a bug or want to suggest a feature, please open an issue or submit a pull request.
 
-# 📷 Screenshots
-
-With full screen indicator
-<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img1.png">
-<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img2.png">
-
-With 3-buttons navigation
-<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img3.png">
-<img height="480" src="https://github.com/vnegi1011/edge_to_edge_resolver/raw/master/example/demo/img4.png">
+### Code Contributors
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/vnegi1011/edge_to_edge_resolver/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/115055146" /></a>

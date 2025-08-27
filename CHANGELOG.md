@@ -1,3 +1,4 @@
-## 0.0.5
+## 0.0.6
 
-* TODO: readme update
+* Added license
+* Fixes for WASM
