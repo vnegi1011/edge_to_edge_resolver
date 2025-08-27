@@ -78,4 +78,4 @@ If you find a bug or want to suggest a feature, please open an issue or submit a
 
 ### Code Contributors
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-[![Contributors](https://avatars.githubusercontent.com/u/115055146?s=50&v=4)](https://github.com/vnegi1011/edge_to_edge_resolver/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=vnegi1011/edge_to_edge_resolver)](https://github.com/vnegi1011/edge_to_edge_resolver/graphs/contributors)
